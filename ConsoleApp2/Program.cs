@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
             static void PrintStuff()
             {
-                Console.WriteLine("Stuff");
+                Console.WriteLine("ALOT OF STUFF");
             }
 
             Console.WriteLine("Hello World!");
